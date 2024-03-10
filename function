@@ -1,0 +1,4 @@
+def summ_num():
+a + b
+
+print(sunn_num())
